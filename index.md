@@ -2,7 +2,7 @@
 layout: page
 title: 柳启明博客
 showtag:
-- ICPC模板
+-
 ---
 ## 近期
 
