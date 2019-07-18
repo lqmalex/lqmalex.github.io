@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 柳启明博客
-showtag:
-- 日报
+
 ---
 ## 文档
 
