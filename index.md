@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 柳启明博客
 showtag:
 - ICPC模板
 ---
