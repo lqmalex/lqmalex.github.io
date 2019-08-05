@@ -130,9 +130,8 @@ client.connect({
 
 * 服务端
 
-![](/home/lqm/wu-kan.github.io/public/image/server.png)
+![](https://lqmalex.github.io/public/image/server.png)
 
 * 客户端
 
-![](/home/lqm/wu-kan.github.io/public/image/clent2.png)
-
+![](https://lqmalex.github.io/public/image/clent2.png)
